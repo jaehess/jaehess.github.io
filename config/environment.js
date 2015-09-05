@@ -16,6 +16,12 @@ module.exports = function(environment) {
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
+    },
+
+    PARTICLE: {
+      accessToken: '4ff2da4784cf539c5dfe6b34b31b77d83eaeeac6',
+      deviceId: '280023000247343337373739',
+      apiVersion: 'v1'
     }
   };
 
